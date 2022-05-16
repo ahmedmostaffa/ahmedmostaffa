@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Test Automation projects or Automation bot**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> Email: ahmostafa168@gmail.com  font-family="Arial"</p> 
+<p align="left" font-family="Arial"> Email: ahmostafa168@gmail.com  </p> 
 
 <p align="left">
 </p>
