@@ -18,6 +18,8 @@
 <a href="https://cucumber.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber" width="40" height="40"></a>
 
 <a href="https://docs.pytest.org/en/7.1.x/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="60" height="60"></a>
+<a href="https://www.browserstack.com/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/browserstack/browserstack-ar21.svg" alt="BrowserStack" width="60" height="60"></a>
+  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmostaffa&show_icons=true&locale=en&layout=compact" alt="ahmedmostaffa" /></p>
 
